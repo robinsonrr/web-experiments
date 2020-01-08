@@ -1,0 +1,28 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_9">
+   <stop offset="0" stop-color="#56aaff"/>
+   <stop offset="0.226563" stop-color="#a95500"/>
+   <stop offset="0.382813" stop-color="#a95500"/>
+   <stop offset="0.515625" stop-color="#a95500"/>
+   <stop offset="1" stop-color="#a95500"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="url(#svg_9)" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(2.4701680287713543,0,0,3.699187215750783,-170.0579240257491,-491.1418056891918) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="170.453125" x="95.5" stroke-width="0" fill="#000000">Robinson Remigio</text>
+  <path id="svg_2" d="m65.117498,183.838671l37.050964,0l11.449033,-28.265559l11.449039,28.265559l37.050957,0l-29.974805,17.468876l11.449625,28.265559l-29.974818,-17.469352l-29.974811,17.469352l11.449629,-28.265559l-29.974814,-17.468876z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#CBFFFF"/>
+  <path id="svg_3" d="m203.1175,187.83867l37.05096,0l11.44903,-28.26556l11.44904,28.26556l37.05096,0l-29.9748,17.46888l11.44962,28.26556l-29.97482,-17.46936l-29.97481,17.46936l11.44963,-28.26556l-29.97481,-17.46888z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#CBFFFF"/>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="24" id="svg_5" y="203.453125" x="106.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">R</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="24" id="svg_6" y="211.453125" x="241.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">R</text>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_7" y2="124.453115" x2="582.500002" y1="316.453126" x1="-1" fill-opacity="null" stroke-opacity="null" fill="none"/>
+ </g>
+</svg>

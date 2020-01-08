@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+ <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+  <meta name="author" content="Robinson">
+  <meta name="description" content="Datos hoja de vida">
+  <meta name="keywords" content="cv, hoja de vida, Robinson">    
+ </head>
+ <body>
+  <header>
+   <img src="./media/logo1.svg" alt="logo" width="100px" height="100px">
+   <h1> Hoja de Vida  </h1> 
+   <h2> Robinson Remigio </h2> 
+   <h3> Santo Domingo, República Dominicana</h3>
+   <div class="menu1">
+    <a href="index.html" target=""> Inicio </a>&#124
+    <a href="educacion.html" target=""> Educación </a>&#124
+    <a href="experiencia.html" target=""> Experiencia </a>
+   </div> 
+  </header>
+  <content> 
+   <h3> Educación</h3>  
+   <table class="educacion" border="2">
+    <tr>
+    <th>Año</th><th>Institución</th><th>Lugar</th><th>Culminó?</th>
+    </tr>
+    <tr>
+     <td>2011</td><td>Universidad</td><td>Santo Domingo</td><td>No</td>
+    </tr> 
+    <tr>    
+     <td>2010</td><td>Universidad</td><td>Santo Domingo</td><td>Si</td>
+    </tr>
+    <tr> 
+    <td>2009</td><td>Universidad</td><td>Santo Domingo</td><td>Si</td>
+    </tr>  
+   </table> 
+   <p> 
+    Agregar Estudios
+    <form class="datos" action="" method="">
+      Año 
+      <input name="anno" list="anno" style="width:50px;" value="2016">
+
+        <datalist id="anno">
+         <option value="2019">
+	 <option value="2018">
+	 <option value="2017">
+	 <option value="2016">
+        </datalist><br>
+         
+      Institución  
+      <input name="Institución" type="text" required><br>
+      Lugar  
+      <textarea name="Lugar" form="datos"></textarea><br>
+      <button name="enviar">Enviar </button >
+     </form>
+   </p> 
+  </content>  
+  <footer>
+   Email:robinson001@miempresa.com <br>
+   Teléfono:1+809-000-5986  <br>
+   Dirección:Santo Domingo  <br>
+    
+  </footer> 
+ 
+ </body>
+</html>
